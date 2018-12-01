@@ -1,0 +1,2 @@
+# LinkRepository
+for web link
